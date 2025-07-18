@@ -1,59 +1,61 @@
-<h1 align="center">Hey there! I'm Mohammad Tanjim Rahman Talha 👋</h1>
+<h1 align="center">Hello! I’m Mohammad Tanjim Rahman Talha 👋</h1>
 
 <p align="center">
-  🚀 Robotics Enthusiast | 💡 Creative Technologist | 🎨 Graphics Designer <br/>
-  Passionate about building, breaking, fixing, and reimagining the world — one robot and pixel at a time.
+  🚀 Robotics Enthusiast | 💡 Creative Technologist | 🎨 Visual Storyteller <br/>
+  Crafting smart machines and striking designs — one innovation and pixel at a time.
 </p>
 
 ---
 
 ### 👨‍🔬 About Me
 
-I'm **Mohammad Tanjim Rahman Talha**, a curious mind from Bangladesh blending science, creativity, and logic to shape cool stuff — from real robots to stunning designs. I code in **C, C++, HTML, CSS, JavaScript** and explore the frontier of robotics and embedded systems.
+I’m **Mohammad Tanjim Rahman Talha**, a curious mind from Bangladesh fueled by a blend of science, creativity, and logic. Whether it’s programming a robot to sense the world or designing visuals that captivate, I’m passionate about building meaningful experiences.
 
-💡 I don't just write code — I build **things that move, sense, and think.**
+I code fluently in **C, C++, HTML, CSS, and JavaScript**, diving deep into robotics, embedded systems, and the Internet of Things.
 
-🎨 I also breathe life into visuals through **graphic design**, creating unique digital art and branding that tells a story.
+💡 My work goes beyond code — I create **things that move, think, and inspire.**
 
-🧠 In short, I’m the guy who codes a robot during the day and designs your brand identity at night.
+🎨 By night, I transform ideas into compelling digital art and brand identities that tell authentic stories.
 
----
-
-### 🛠️ What I Work With
-
-- 🤖 Arduino, NodeMCU, Sensors, IoT
-- 💻 HTML, CSS, JavaScript
-- 🔧 C/C++
-- 🧩 Robotics Architecture
-- 🎨 Photoshop, Illustrator, Canva
-- 🧠 Logic + Creativity = My Superpower
+In short, I’m the person who codes with precision and designs with heart.
 
 ---
 
-### 🌟 What Makes Me, Me?
+### 🛠️ Technologies & Tools
 
-- I believe learning never ends.
-- I prefer **purpose over popularity**.
-- I create with **passion, not pressure**.
-- I think outside the box... then burn the box 🔥
+- 🤖 Arduino, NodeMCU, Sensors & IoT Ecosystems  
+- 💻 Frontend Web: HTML, CSS, JavaScript  
+- 🔧 Embedded Programming: C, C++  
+- 🧩 Robotics System Architecture  
+- 🎨 Adobe Photoshop, Illustrator, Canva  
+- 🧠 Logic + Creativity = My Formula for Innovation
 
 ---
 
-### 🌐 Let's Connect
+### 🌟 What Drives Me
 
-- 📫 **Facebook**: [mohammad.tanjim.rahman.talha](https://www.facebook.com/mohammad.tanjim.rahman.talha)
-- 💼 **LinkedIn**: [mtanjimrahman](https://www.linkedin.com/in/mtanjimrahman/)
-- 📸 **Instagram**: [_____mr_helium_____](https://www.instagram.com/_____mr_helium_____/)
+- Lifelong learner with an appetite for growth  
+- Prioritizing impact over recognition  
+- Passionate creation without compromise  
+- Thinking beyond limits — then rewriting the rules 🔥
+
+---
+
+### 🌐 Connect with Me
+
+- 📫 **Facebook:** [mohammad.tanjim.rahman.talha](https://www.facebook.com/mohammad.tanjim.rahman.talha)  
+- 💼 **LinkedIn:** [mtanjimrahman](https://www.linkedin.com/in/mtanjimrahman/)  
+- 📸 **Instagram:** [_____mr_helium_____](https://www.instagram.com/_____mr_helium_____/)
 
 ---
 
 ### 🔥 Fun Fact
 
-> I once made a robot blink its LED faster than people blink when they get caught cheating in exams 😏
+> I once programmed a robot to blink its LED faster than anyone blinks when caught cheating. 😏
 
 ---
 
 <p align="center">
-  🧠 Built with love, logic, and lots of late-night debugging.<br/>
-  ⚡ Powered by dreams. Fueled by code.
+  🧠 Crafted with passion, precision, and countless late-night debugging sessions.<br/>
+  ⚡ Powered by vision. Driven by code.
 </p>
