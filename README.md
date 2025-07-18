@@ -1,65 +1,34 @@
-# 👋 Hi, I'm Tanjim Talha
-
-### 💻 I code. I build robots. I design stuff. That’s just me.
-
-I’m a student from Bangladesh who’s always making something —  
-sometimes it’s a website, sometimes a robot, sometimes a poster.  
-From coding in C/C++ to designing in Canva or Illustrator, I enjoy learning and building things that actually work (or at least try to 😅).
+<h1 align="center">Hey there, I'm <span style="color:#F7971E">Tanjim Talha</span> 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=450&lines=Web+Dev+by+day...;Robot+Builder+by+night...;Designer+in+between!" />
+</p>
 
 ---
 
-## 🔧 What I Actually Know
+### 🧠 Who Am I, Really?
 
-- 💻 HTML, CSS, JavaScript – for building responsive websites  
-- 👨‍🔧 C & C++ – for solving problems and writing robotics code  
-- 🤖 Arduino, Sensors, Motors – for real-world robot projects  
-- 🎨 Canva, Adobe Illustrator – for poster, banner & logo design
-
----
-
-## 🤖 Robotics Projects I've Built
-
-- ✅ Microplastic Detection Robot (Turbidity sensor-based)  
-- ✅ Air Quality Monitoring Bot (with Gas, Temp & Humidity sensors)  
-- ✅ Line Follower & Obstacle Avoider  
-- ✅ IoT Setup using NodeMCU + Blynk  
+Just a regular guy with not-so-regular obsessions:
+- 🧑‍💻 I write code that shapes webpages
+- ⚙️ I wire circuits that move machines
+- 🎨 I design posters that speak louder than captions
+- 🔍 And I keep exploring, failing, fixing — again and again
 
 ---
 
-## 🌱 What I’m Learning Now
+### 💥 What I Actually Know
 
-- DOM JavaScript & Functional JS  
-- React.js (Frontend Framework)  
-- Better circuit design & sensor integration  
-- Combining **AI + Robots** (my future target 👀)
+```yaml
+Languages:
+  - HTML, CSS, JavaScript
+  - C, C++
 
----
+Robotics:
+  - Arduino UNO, NodeMCU
+  - Sensors: Ultrasonic, Gas, Temp-Humidity, Turbidity
+  - Motors: SG90, Gear Motor, L298N
+  - IoT: Blynk, Wi-Fi Setup
+  - LCD + I2C, Chassis design
 
-## 🛠 Tools I Use Everyday
-
-- Visual Studio Code  
-- Arduino IDE  
-- Git & GitHub  
-- Canva / Illustrator  
-- Blynk (IoT)  
-- My own brain 🧠
-
----
-
-## 📊 GitHub Stats
-
-![Tanjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjimtalha8&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimtalha8&layout=compact&theme=radical)
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** tanjimtalha8@gmail.com  
-- 🔵 [Facebook](https://www.facebook.com/mohammad.tanjim.rahman.talha)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mtanjimrahman/)  
-- 📸 [Instagram](https://www.instagram.com/_____mr_helium_____/)
-
----
-
-> _"Sometimes I code bugs. Sometimes I fix bugs. But I always build something."_ 🛠️
+Design:
+  - Canva, Illustrator
+  - Branding, Logo, Poster, Banner
