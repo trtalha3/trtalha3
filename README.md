@@ -2,20 +2,20 @@
 
 <p align="center">
   Robotics Enthusiast | Creative Technologist | Visual Storyteller<br/>
-  Designing intelligent systems and meaningful experiences through technology and art.
+  Crafting intelligent systems and memorable experiences — one line of code and one pixel at a time.
 </p>
 
 ---
 
 ### About Me
 
-I’m Mohammad Tanjim Rahman Talha, an inquisitive developer and designer from Bangladesh with a passion for blending science and creativity. I thrive at the intersection of logic and imagination—building robots that interact with the world and crafting visuals that tell compelling stories.
+I’m Mohammad Tanjim Rahman Talha, a passionate creator from Bangladesh who lives at the crossroads of technology and creativity. Whether I’m programming robots to sense their environment or designing visuals that spark emotion, I’m driven by the thrill of bringing ideas to life.
 
-With hands-on expertise in **C, C++, HTML, CSS, and JavaScript**, I focus on developing embedded systems, IoT devices, and front-end applications that solve real problems.
+With solid skills in <code>C, C++, HTML, CSS, and JavaScript</code>, I build embedded systems, IoT devices, and frontend applications — all with the goal of solving real-world challenges.
 
-My work isn’t just about writing code or making graphics—it’s about creating things that move, sense, and communicate in ways that inspire and engage.
+For me, coding is more than logic — it’s a way to make machines think, move, and connect. And design isn’t just decoration — it’s storytelling through every color and shape.
 
-In essence, I bring precision to programming and soul to design.
+Simply put: I build with precision and create with purpose.
 
 ---
 
@@ -26,13 +26,13 @@ In essence, I bring precision to programming and soul to design.
 - Programming Languages: C, C++  
 - Robotics Architecture & System Design  
 - Graphic Design: Adobe Photoshop, Illustrator, Canva  
-- Problem Solving Through Logic and Creativity
+- Problem Solving Powered by Logic and Imagination
 
 ---
 
 ### What Drives Me
 
-I believe in continuous learning and purposeful work. Instead of chasing trends, I strive to create impact through thoughtful innovation and authentic passion. I challenge conventions, question the status quo, and look beyond boundaries to find new possibilities.
+I believe learning never stops and purpose fuels passion. I don’t chase trends; I chase impact. I push boundaries, question norms, and craft solutions that matter — all with a mindset to think bigger and better.
 
 ---
 
@@ -41,16 +41,3 @@ I believe in continuous learning and purposeful work. Instead of chasing trends,
 - Facebook: [mohammad.tanjim.rahman.talha](https://www.facebook.com/mohammad.tanjim.rahman.talha)  
 - LinkedIn: [mtanjimrahman](https://www.linkedin.com/in/mtanjimrahman/)  
 - Instagram: [_____mr_helium_____](https://www.instagram.com/_____mr_helium_____/)
-
----
-
-### A Little About My Work
-
-I once programmed a robot to blink its LED faster than the human eye can catch — a small reminder that with creativity and technical skill, even the simplest projects can spark amazement.
-
----
-
-<p align="center">
-  <em>Crafted with dedication, late-night focus, and a deep love for building things that matter.<br/>
-  Powered by curiosity. Driven by code.</em>
-</p>
