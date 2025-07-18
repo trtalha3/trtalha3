@@ -1,34 +1,59 @@
-<h1 align="center">Hey there, I'm <span style="color:#F7971E">Tanjim Talha</span> 👋</h1>
+<h1 align="center">Hey there! I'm Mohammad Tanjim Rahman Talha 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=450&lines=Web+Dev+by+day...;Robot+Builder+by+night...;Designer+in+between!" />
+  🚀 Robotics Enthusiast | 💡 Creative Technologist | 🎨 Graphics Designer <br/>
+  Passionate about building, breaking, fixing, and reimagining the world — one robot and pixel at a time.
 </p>
 
 ---
 
-### 🧠 Who Am I, Really?
+### 👨‍🔬 About Me
 
-Just a regular guy with not-so-regular obsessions:
-- 🧑‍💻 I write code that shapes webpages
-- ⚙️ I wire circuits that move machines
-- 🎨 I design posters that speak louder than captions
-- 🔍 And I keep exploring, failing, fixing — again and again
+I'm **Mohammad Tanjim Rahman Talha**, a curious mind from Bangladesh blending science, creativity, and logic to shape cool stuff — from real robots to stunning designs. I code in **C, C++, HTML, CSS, JavaScript** and explore the frontier of robotics and embedded systems.
+
+💡 I don't just write code — I build **things that move, sense, and think.**
+
+🎨 I also breathe life into visuals through **graphic design**, creating unique digital art and branding that tells a story.
+
+🧠 In short, I’m the guy who codes a robot during the day and designs your brand identity at night.
 
 ---
 
-### 💥 What I Actually Know
+### 🛠️ What I Work With
 
-```yaml
-Languages:
-  - HTML, CSS, JavaScript
-  - C, C++
+- 🤖 Arduino, NodeMCU, Sensors, IoT
+- 💻 HTML, CSS, JavaScript
+- 🔧 C/C++
+- 🧩 Robotics Architecture
+- 🎨 Photoshop, Illustrator, Canva
+- 🧠 Logic + Creativity = My Superpower
 
-Robotics:
-  - Arduino UNO, NodeMCU
-  - Sensors: Ultrasonic, Gas, Temp-Humidity, Turbidity
-  - Motors: SG90, Gear Motor, L298N
-  - IoT: Blynk, Wi-Fi Setup
-  - LCD + I2C, Chassis design
+---
 
-Design:
-  - Canva, Illustrator
-  - Branding, Logo, Poster, Banner
+### 🌟 What Makes Me, Me?
+
+- I believe learning never ends.
+- I prefer **purpose over popularity**.
+- I create with **passion, not pressure**.
+- I think outside the box... then burn the box 🔥
+
+---
+
+### 🌐 Let's Connect
+
+- 📫 **Facebook**: [mohammad.tanjim.rahman.talha](https://www.facebook.com/mohammad.tanjim.rahman.talha)
+- 💼 **LinkedIn**: [mtanjimrahman](https://www.linkedin.com/in/mtanjimrahman/)
+- 📸 **Instagram**: [_____mr_helium_____](https://www.instagram.com/_____mr_helium_____/)
+
+---
+
+### 🔥 Fun Fact
+
+> I once made a robot blink its LED faster than people blink when they get caught cheating in exams 😏
+
+---
+
+<p align="center">
+  🧠 Built with love, logic, and lots of late-night debugging.<br/>
+  ⚡ Powered by dreams. Fueled by code.
+</p>
